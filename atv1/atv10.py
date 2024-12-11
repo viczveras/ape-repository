@@ -2,7 +2,7 @@
 idade_maxima = 0
 idade_minima = 100 
 
-numero_de_pessoas = 40
+numero_de_pessoas = 320
 
 for i in range(numero_de_pessoas):
     idade = int(input(f'Digite a idade da pessoa {i + 1}: '))
